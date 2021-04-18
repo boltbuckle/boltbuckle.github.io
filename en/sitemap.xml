@@ -3,13 +3,8 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/categories/bach/</loc>
-    <lastmod>2021-03-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/categories/</loc>
-    <lastmod>2021-03-12T00:00:00+00:00</lastmod>
+    <lastmod>2021-04-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
@@ -23,18 +18,23 @@
   </url>
   
   <url>
-    <loc>/tags/j.s.-bach-guitar-hell/</loc>
-    <lastmod>2021-03-12T00:00:00+00:00</lastmod>
+    <loc>/tags/git/</loc>
+    <lastmod>2021-04-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/trail/players/</loc>
-    <lastmod>2021-03-12T00:00:00+00:00</lastmod>
+    <loc>/trail/large-file-tracking-test/</loc>
+    <lastmod>2021-04-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/nerdy/</loc>
+    <lastmod>2021-04-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/</loc>
-    <lastmod>2021-03-12T00:00:00+00:00</lastmod>
+    <lastmod>2021-04-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
@@ -49,7 +49,7 @@
   
   <url>
     <loc>/tags/</loc>
-    <lastmod>2021-03-12T00:00:00+00:00</lastmod>
+    <lastmod>2021-04-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
@@ -63,8 +63,13 @@
   </url>
   
   <url>
+    <loc>/tags/testing/</loc>
+    <lastmod>2021-04-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/trail/</loc>
-    <lastmod>2021-03-12T00:00:00+00:00</lastmod>
+    <lastmod>2021-04-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
@@ -75,6 +80,21 @@
                 hreflang="en"
                 href="/trail/"
                 />
+  </url>
+  
+  <url>
+    <loc>/categories/bach/</loc>
+    <lastmod>2021-03-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/j.s.-bach-guitar-hell/</loc>
+    <lastmod>2021-03-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/trail/players/</loc>
+    <lastmod>2021-03-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>

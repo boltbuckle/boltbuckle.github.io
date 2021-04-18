@@ -6,7 +6,25 @@
     <description>Recent content in Trail on Pek::Druppel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 12 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="/trail/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 15 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="/trail/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Large file tracking test with LFS</title>
+      <link>/trail/large-file-tracking-test/</link>
+      <pubDate>Thu, 15 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/trail/large-file-tracking-test/</guid>
+      <description>&lt;p&gt;
+&lt;a id=&#34;art_of_war_01-02_sun_tzu&#34; class=&#34;audio {skin:&#39;blackLarge&#39;, width:320, loop:false, inLine:true, downloadable:false}&#34; href=&#34;/media/art_of_war_01-02_sun_tzu.mp3&#34;&gt;art_of_war_01-02_sun_tzu&lt;/a&gt;
+&lt;script src=/js/jquery.mb.miniAudioPlayer.min.js&gt;&lt;/script&gt;
+&lt;script&gt;
+  $(&#34;.audio&#34;).mb_miniPlayer({
+    
+  });
+&lt;/script&gt;
+&lt;br&gt;
+here some text&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>jQuery player</title>
       <link>/trail/players/</link>
@@ -23,7 +41,7 @@
       
       <guid>/trail/argentinosaurus/</guid>
       <description>&lt;p&gt;
-&lt;a id=&#34;dummy1&#34; class=&#34;audio {skin:&#39;blackLarge&#39;, width:320, loop:false, inLine:true, downloadable:false}&#34; href=&#34;/media/dummy1.mp3&#34;&gt;dummy1&lt;/a&gt;
+&lt;a id=&#34;dummydoodelydummydoo&#34; class=&#34;audio {skin:&#39;blackLarge&#39;, width:320, loop:false, inLine:true, downloadable:false}&#34; href=&#34;/media/dummydoodelydummydoo.mp3&#34;&gt;dummydoodelydummydoo&lt;/a&gt;
 &lt;script src=/js/jquery.mb.miniAudioPlayer.min.js&gt;&lt;/script&gt;
 &lt;script&gt;
   $(&#34;.audio&#34;).mb_miniPlayer({

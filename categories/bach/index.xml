@@ -23,7 +23,7 @@
       
       <guid>/trail/argentinosaurus/</guid>
       <description>&lt;p&gt;
-&lt;a id=&#34;dummy1&#34; class=&#34;audio {skin:&#39;blackLarge&#39;, width:320, loop:false, inLine:true, downloadable:false}&#34; href=&#34;/media/dummy1.mp3&#34;&gt;dummy1&lt;/a&gt;
+&lt;a id=&#34;dummydoodelydummydoo&#34; class=&#34;audio {skin:&#39;blackLarge&#39;, width:320, loop:false, inLine:true, downloadable:false}&#34; href=&#34;/media/dummydoodelydummydoo.mp3&#34;&gt;dummydoodelydummydoo&lt;/a&gt;
 &lt;script src=/js/jquery.mb.miniAudioPlayer.min.js&gt;&lt;/script&gt;
 &lt;script&gt;
   $(&#34;.audio&#34;).mb_miniPlayer({

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nerdy on Pek::Druppel</title>
+    <link>/categories/nerdy/</link>
+    <description>Recent content in Nerdy on Pek::Druppel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 15 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="/categories/nerdy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Large file tracking test with LFS</title>
+      <link>/trail/large-file-tracking-test/</link>
+      <pubDate>Thu, 15 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/trail/large-file-tracking-test/</guid>
+      <description>&lt;p&gt;
+&lt;a id=&#34;art_of_war_01-02_sun_tzu&#34; class=&#34;audio {skin:&#39;blackLarge&#39;, width:320, loop:false, inLine:true, downloadable:false}&#34; href=&#34;/media/art_of_war_01-02_sun_tzu.mp3&#34;&gt;art_of_war_01-02_sun_tzu&lt;/a&gt;
+&lt;script src=/js/jquery.mb.miniAudioPlayer.min.js&gt;&lt;/script&gt;
+&lt;script&gt;
+  $(&#34;.audio&#34;).mb_miniPlayer({
+    
+  });
+&lt;/script&gt;
+&lt;br&gt;
+here some text&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
