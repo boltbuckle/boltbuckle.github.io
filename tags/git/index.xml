@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>git on Pek::Druppel</title><link>/tags/git/</link><description>Recent content in git on Pek::Druppel</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 15 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/git/index.xml" rel="self" type="application/rss+xml"/><item><title>Large file tracking test with LFS</title><link>/trail/large-file-tracking-test/</link><pubDate>Thu, 15 Apr 2021 00:00:00 +0000</pubDate><guid>/trail/large-file-tracking-test/</guid><description>&lt;p>
 &lt;a id="art_of_war_01-02_sun_tzu" class="audio {skin:'blackLarge', width:320, loop:false, inLine:true, downloadable:false}" href="/media/art_of_war_01-02_sun_tzu.mp3">art_of_war_01-02_sun_tzu&lt;/a>
-&lt;script src=/js/jquery.mb.miniAudioPlayer.min.js>&lt;/script>
 &lt;script>
 $(".audio").mb_miniPlayer({
 });

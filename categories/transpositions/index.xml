@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Transpositions on Pek::Druppel</title><link>/categories/transpositions/</link><description>Recent content in Transpositions on Pek::Druppel</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Fri, 12 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="/categories/transpositions/index.xml" rel="self" type="application/rss+xml"/><item><title>jQuery player</title><link>/trail/players/</link><pubDate>Fri, 12 Mar 2021 00:00:00 +0000</pubDate><guid>/trail/players/</guid><description>dummy $(".audio").mb_miniPlayer({ }); The first Argentinosaurus bone was discovered in 1987 by a farmer on his farm near the city of Plaza Huincul.</description></item><item><title>Argentinosaurus</title><link>/trail/argentinosaurus/</link><pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate><guid>/trail/argentinosaurus/</guid><description>&lt;p>
 &lt;a id="dummydoodelydummydoo" class="audio {skin:'blackLarge', width:320, loop:false, inLine:true, downloadable:false}" href="/media/dummydoodelydummydoo.mp3">dummydoodelydummydoo&lt;/a>
-&lt;script src=/js/jquery.mb.miniAudioPlayer.min.js>&lt;/script>
 &lt;script>
 $(".audio").mb_miniPlayer({
 });
