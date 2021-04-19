@@ -1,102 +1,18 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Trail on Pek::Druppel</title>
-    <link>/trail/</link>
-    <description>Recent content in Trail on Pek::Druppel</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Thu, 15 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="/trail/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Large file tracking test with LFS</title>
-      <link>/trail/large-file-tracking-test/</link>
-      <pubDate>Thu, 15 Apr 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/trail/large-file-tracking-test/</guid>
-      <description>&lt;p&gt;
-&lt;a id=&#34;art_of_war_01-02_sun_tzu&#34; class=&#34;audio {skin:&#39;blackLarge&#39;, width:320, loop:false, inLine:true, downloadable:false}&#34; href=&#34;/media/art_of_war_01-02_sun_tzu.mp3&#34;&gt;art_of_war_01-02_sun_tzu&lt;/a&gt;
-&lt;script src=/js/jquery.mb.miniAudioPlayer.min.js&gt;&lt;/script&gt;
-&lt;script&gt;
-  $(&#34;.audio&#34;).mb_miniPlayer({
-    
-  });
-&lt;/script&gt;
-&lt;br&gt;
-here some text&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>jQuery player</title>
-      <link>/trail/players/</link>
-      <pubDate>Fri, 12 Mar 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/trail/players/</guid>
-      <description>dummy   $(&#34;.audio&#34;).mb_miniPlayer({ });  The first Argentinosaurus bone was discovered in 1987 by a farmer on his farm near the city of Plaza Huincul.</description>
-    </item>
-    
-    <item>
-      <title>Argentinosaurus</title>
-      <link>/trail/argentinosaurus/</link>
-      <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/trail/argentinosaurus/</guid>
-      <description>&lt;p&gt;
-&lt;a id=&#34;dummydoodelydummydoo&#34; class=&#34;audio {skin:&#39;blackLarge&#39;, width:320, loop:false, inLine:true, downloadable:false}&#34; href=&#34;/media/dummydoodelydummydoo.mp3&#34;&gt;dummydoodelydummydoo&lt;/a&gt;
-&lt;script src=/js/jquery.mb.miniAudioPlayer.min.js&gt;&lt;/script&gt;
-&lt;script&gt;
-  $(&#34;.audio&#34;).mb_miniPlayer({
-    
-  });
-&lt;/script&gt;
-&lt;br&gt;
-&lt;em&gt;&lt;strong&gt;Argentinosaurus&lt;/strong&gt;&lt;/em&gt; is a &lt;a href=&#34;https://en.wikipedia.org/wiki/Genus&#34;&gt;genus&lt;/a&gt; of giant &lt;a href=&#34;https://en.wikipedia.org/wiki/Sauropod&#34;&gt;sauropod&lt;/a&gt; &lt;a href=&#34;https://en.wikipedia.org/wiki/Dinosaur&#34;&gt;dinosaur&lt;/a&gt; that lived during the &lt;a href=&#34;https://en.wikipedia.org/wiki/Late_Cretaceous&#34;&gt;Late Cretaceous&lt;/a&gt; &lt;a href=&#34;https://en.wikipedia.org/wiki/Period_(geology)&#34;&gt;period&lt;/a&gt; in what is now &lt;a href=&#34;https://en.wikipedia.org/wiki/Argentina&#34;&gt;Argentina&lt;/a&gt;. Although it is only known from fragmentary remains, &lt;em&gt;Argentinosaurus&lt;/em&gt; is one of the &lt;a href=&#34;https://en.wikipedia.org/wiki/Largest_prehistoric_animals#Non-avian_dinosaurs_(Dinosauria)&#34;&gt;largest known land animals of all time&lt;/a&gt;, perhaps the largest, with length estimates ranging from 30 to 40 metres (100 to 130 ft) and weight estimates from 50 to 100 tonnes (55 to 110  short tons). It was a member of &lt;a href=&#34;https://en.wikipedia.org/wiki/Titanosauria&#34;&gt;Titanosauria&lt;/a&gt;, the dominant group of sauropods during the Cretaceous.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>PD#243 | Some Intro</title>
-      <link>/trail/some-intro/</link>
-      <pubDate>Wed, 10 Mar 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/trail/some-intro/</guid>
-      <description>&lt;p&gt;&lt;em&gt;&lt;strong&gt;Argentinosaurus&lt;/strong&gt;&lt;/em&gt; is a &lt;a href=&#34;https://en.wikipedia.org/wiki/Genus&#34;&gt;genus&lt;/a&gt; of giant &lt;a href=&#34;https://en.wikipedia.org/wiki/Sauropod&#34;&gt;sauropod&lt;/a&gt; &lt;a href=&#34;https://en.wikipedia.org/wiki/Dinosaur&#34;&gt;dinosaur&lt;/a&gt; that lived during the &lt;a href=&#34;https://en.wikipedia.org/wiki/Late_Cretaceous&#34;&gt;Late Cretaceous&lt;/a&gt; &lt;a href=&#34;https://en.wikipedia.org/wiki/Period_(geology)&#34;&gt;period&lt;/a&gt; in what is now &lt;a href=&#34;https://en.wikipedia.org/wiki/Argentina&#34;&gt;Argentina&lt;/a&gt;. Although it is only known from fragmentary remains, &lt;em&gt;Argentinosaurus&lt;/em&gt; is one of the &lt;a href=&#34;https://en.wikipedia.org/wiki/Largest_prehistoric_animals#Non-avian_dinosaurs_(Dinosauria)&#34;&gt;largest known land animals of all time&lt;/a&gt;, perhaps the largest, with length estimates ranging from 30 to 40 metres (100 to 130 ft) and weight estimates from 50 to 100 tonnes (55 to 110  short tons). It was a member of &lt;a href=&#34;https://en.wikipedia.org/wiki/Titanosauria&#34;&gt;Titanosauria&lt;/a&gt;, the dominant group of sauropods during the Cretaceous.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Markdown Syntax Guide</title>
-      <link>/trail/markdown-syntax/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/trail/markdown-syntax/</guid>
-      <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Rich Content</title>
-      <link>/trail/rich-content/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/trail/rich-content/</guid>
-      <description>&lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugo-s-built-in-shortcodes&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Placeholder Text</title>
-      <link>/trail/placeholder-text/</link>
-      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/trail/placeholder-text/</guid>
-      <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de
-pectora summo.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Emoji Support</title>
-      <link>/trail/emoji-support/</link>
-      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/trail/emoji-support/</guid>
-      <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Trail on Pek::Druppel</title><link>/trail/</link><description>Recent content in Trail on Pek::Druppel</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 15 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="/trail/index.xml" rel="self" type="application/rss+xml"/><item><title>Large file tracking test with LFS</title><link>/trail/large-file-tracking-test/</link><pubDate>Thu, 15 Apr 2021 00:00:00 +0000</pubDate><guid>/trail/large-file-tracking-test/</guid><description>&lt;p>
+&lt;a id="art_of_war_01-02_sun_tzu" class="audio {skin:'blackLarge', width:320, loop:false, inLine:true, downloadable:false}" href="/media/art_of_war_01-02_sun_tzu.mp3">art_of_war_01-02_sun_tzu&lt;/a>
+&lt;script src=/js/jquery.mb.miniAudioPlayer.min.js>&lt;/script>
+&lt;script>
+$(".audio").mb_miniPlayer({
+});
+&lt;/script>
+&lt;br>
+here some text&lt;/p></description></item><item><title>jQuery player</title><link>/trail/players/</link><pubDate>Fri, 12 Mar 2021 00:00:00 +0000</pubDate><guid>/trail/players/</guid><description>dummy $(".audio").mb_miniPlayer({ }); The first Argentinosaurus bone was discovered in 1987 by a farmer on his farm near the city of Plaza Huincul.</description></item><item><title>Argentinosaurus</title><link>/trail/argentinosaurus/</link><pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate><guid>/trail/argentinosaurus/</guid><description>&lt;p>
+&lt;a id="dummydoodelydummydoo" class="audio {skin:'blackLarge', width:320, loop:false, inLine:true, downloadable:false}" href="/media/dummydoodelydummydoo.mp3">dummydoodelydummydoo&lt;/a>
+&lt;script src=/js/jquery.mb.miniAudioPlayer.min.js>&lt;/script>
+&lt;script>
+$(".audio").mb_miniPlayer({
+});
+&lt;/script>
+&lt;br>
+&lt;em>&lt;strong>Argentinosaurus&lt;/strong>&lt;/em> is a &lt;a href="https://en.wikipedia.org/wiki/Genus">genus&lt;/a> of giant &lt;a href="https://en.wikipedia.org/wiki/Sauropod">sauropod&lt;/a> &lt;a href="https://en.wikipedia.org/wiki/Dinosaur">dinosaur&lt;/a> that lived during the &lt;a href="https://en.wikipedia.org/wiki/Late_Cretaceous">Late Cretaceous&lt;/a> &lt;a href="https://en.wikipedia.org/wiki/Period_(geology)">period&lt;/a> in what is now &lt;a href="https://en.wikipedia.org/wiki/Argentina">Argentina&lt;/a>. Although it is only known from fragmentary remains, &lt;em>Argentinosaurus&lt;/em> is one of the &lt;a href="https://en.wikipedia.org/wiki/Largest_prehistoric_animals#Non-avian_dinosaurs_(Dinosauria)">largest known land animals of all time&lt;/a>, perhaps the largest, with length estimates ranging from 30 to 40 metres (100 to 130 ft) and weight estimates from 50 to 100 tonnes (55 to 110 short tons). It was a member of &lt;a href="https://en.wikipedia.org/wiki/Titanosauria">Titanosauria&lt;/a>, the dominant group of sauropods during the Cretaceous.&lt;/p></description></item><item><title>PD#243 | Some Intro</title><link>/trail/some-intro/</link><pubDate>Wed, 10 Mar 2021 00:00:00 +0000</pubDate><guid>/trail/some-intro/</guid><description>&lt;p>&lt;em>&lt;strong>Argentinosaurus&lt;/strong>&lt;/em> is a &lt;a href="https://en.wikipedia.org/wiki/Genus">genus&lt;/a> of giant &lt;a href="https://en.wikipedia.org/wiki/Sauropod">sauropod&lt;/a> &lt;a href="https://en.wikipedia.org/wiki/Dinosaur">dinosaur&lt;/a> that lived during the &lt;a href="https://en.wikipedia.org/wiki/Late_Cretaceous">Late Cretaceous&lt;/a> &lt;a href="https://en.wikipedia.org/wiki/Period_(geology)">period&lt;/a> in what is now &lt;a href="https://en.wikipedia.org/wiki/Argentina">Argentina&lt;/a>. Although it is only known from fragmentary remains, &lt;em>Argentinosaurus&lt;/em> is one of the &lt;a href="https://en.wikipedia.org/wiki/Largest_prehistoric_animals#Non-avian_dinosaurs_(Dinosauria)">largest known land animals of all time&lt;/a>, perhaps the largest, with length estimates ranging from 30 to 40 metres (100 to 130 ft) and weight estimates from 50 to 100 tonnes (55 to 110 short tons). It was a member of &lt;a href="https://en.wikipedia.org/wiki/Titanosauria">Titanosauria&lt;/a>, the dominant group of sauropods during the Cretaceous.&lt;/p></description></item><item><title>Markdown Syntax Guide</title><link>/trail/markdown-syntax/</link><pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate><guid>/trail/markdown-syntax/</guid><description>&lt;p>This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p></description></item><item><title>Rich Content</title><link>/trail/rich-content/</link><pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate><guid>/trail/rich-content/</guid><description>&lt;p>Hugo ships with several &lt;a href="https://gohugo.io/content-management/shortcodes/#use-hugo-s-built-in-shortcodes">Built-in Shortcodes&lt;/a> for rich content, along with a &lt;a href="https://gohugo.io/about/hugo-and-gdpr/">Privacy Config&lt;/a> and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p></description></item><item><title>Placeholder Text</title><link>/trail/placeholder-text/</link><pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate><guid>/trail/placeholder-text/</guid><description>&lt;p>Lorem est tota propiore conpellat pectoribus de
+pectora summo.&lt;/p></description></item><item><title>Emoji Support</title><link>/trail/emoji-support/</link><pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate><guid>/trail/emoji-support/</guid><description>&lt;p>Emoji can be enabled in a Hugo project in a number of ways.&lt;/p></description></item></channel></rss>
