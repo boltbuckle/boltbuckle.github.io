@@ -23,7 +23,7 @@ More text</description>
       <pubDate>Tue, 20 Apr 2021 16:33:36 +0200</pubDate>
       
       <guid>/trail/pd-007-aaabbb/</guid>
-      <description>dummy  $(&#34;.audio&#34;).mb_miniPlayer({ });  text</description>
+      <description>dummy1  $(&#34;.audio&#34;).mb_miniPlayer({ });  text</description>
     </item>
     
     <item>
@@ -32,7 +32,7 @@ More text</description>
       <pubDate>Tue, 20 Apr 2021 16:33:29 +0200</pubDate>
       
       <guid>/trail/pd-006-aaabbb/</guid>
-      <description>dummy  $(&#34;.audio&#34;).mb_miniPlayer({ });  text</description>
+      <description>dummy2  $(&#34;.audio&#34;).mb_miniPlayer({ });  text</description>
     </item>
     
     <item>
@@ -41,7 +41,7 @@ More text</description>
       <pubDate>Tue, 20 Apr 2021 16:33:24 +0200</pubDate>
       
       <guid>/trail/pd-005-aaabbb/</guid>
-      <description>dummy  $(&#34;.audio&#34;).mb_miniPlayer({ });  text</description>
+      <description>dummy3  $(&#34;.audio&#34;).mb_miniPlayer({ });  text</description>
     </item>
     
     <item>
@@ -50,7 +50,7 @@ More text</description>
       <pubDate>Tue, 20 Apr 2021 16:32:03 +0200</pubDate>
       
       <guid>/trail/pd-004-aaabbb/</guid>
-      <description>dummy  $(&#34;.audio&#34;).mb_miniPlayer({ });  text</description>
+      <description>dummy4  $(&#34;.audio&#34;).mb_miniPlayer({ });  text</description>
     </item>
     
     <item>
@@ -59,7 +59,7 @@ More text</description>
       <pubDate>Tue, 20 Apr 2021 16:31:58 +0200</pubDate>
       
       <guid>/trail/pd-003-aaabbb/</guid>
-      <description>dummy  $(&#34;.audio&#34;).mb_miniPlayer({ });  text</description>
+      <description>text</description>
     </item>
     
     <item>
@@ -68,7 +68,7 @@ More text</description>
       <pubDate>Tue, 20 Apr 2021 16:27:21 +0200</pubDate>
       
       <guid>/trail/pd-001-aaabbb/</guid>
-      <description>dummydoodelydummydoo  $(&#34;.audio&#34;).mb_miniPlayer({ });  text</description>
+      <description>text</description>
     </item>
     
     <item>

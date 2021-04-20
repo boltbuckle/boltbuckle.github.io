@@ -8,37 +8,37 @@
     "title": "Pd#007 AaaBbb",
     "date": "",
     "description": "give a description",
-    "body": "dummy  $(\".audio\").mb_miniPlayer({ });  text\n",
+    "body": "dummy1  $(\".audio\").mb_miniPlayer({ });  text\n",
     "ref": "/trail/pd-007-aaabbb/"
   },{
     "title": "Pd#006 AaaBbb",
     "date": "",
     "description": "give a description",
-    "body": "dummy  $(\".audio\").mb_miniPlayer({ });  text\n",
+    "body": "dummy2  $(\".audio\").mb_miniPlayer({ });  text\n",
     "ref": "/trail/pd-006-aaabbb/"
   },{
     "title": "Pd#005 AaaBbb",
     "date": "",
     "description": "give a description",
-    "body": "dummy  $(\".audio\").mb_miniPlayer({ });  text\n",
+    "body": "dummy3  $(\".audio\").mb_miniPlayer({ });  text\n",
     "ref": "/trail/pd-005-aaabbb/"
   },{
     "title": "Pd#004 AaaBbb",
     "date": "",
     "description": "give a description",
-    "body": "dummy  $(\".audio\").mb_miniPlayer({ });  text\n",
+    "body": "dummy4  $(\".audio\").mb_miniPlayer({ });  text\n",
     "ref": "/trail/pd-004-aaabbb/"
   },{
     "title": "Pd#003 AaaBbb",
     "date": "",
     "description": "give a description",
-    "body": "dummy  $(\".audio\").mb_miniPlayer({ });  text\n",
+    "body": "text\n",
     "ref": "/trail/pd-003-aaabbb/"
   },{
     "title": "PD#001-AaaBbb",
     "date": "",
     "description": "Tests with Yaml",
-    "body": "dummydoodelydummydoo  $(\".audio\").mb_miniPlayer({ });  text\n",
+    "body": "text\n",
     "ref": "/trail/pd-001-aaabbb/"
   },{
     "title": "Pd#002 AaaBbb",
