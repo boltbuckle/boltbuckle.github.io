@@ -2,7 +2,7 @@
     "title": "Pd#008 AaaBbb",
     "date": "",
     "description": "give a description",
-    "body": "dummy  $(\".audio\").mb_miniPlayer({ });  \nHere leadtext\nMore text\n",
+    "body": "dummy  $(\".audio\").mb_miniPlayer({ });  Here leadtext\nMore text\n",
     "ref": "/trail/pd-008-aaabbb/"
   },{
     "title": "Pd#007 AaaBbb",
