@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>J.S. Bach on Pek::Druppel</title>
+    <link>/tags/j.s.-bach/</link>
+    <description>Recent content in J.S. Bach on Pek::Druppel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 20 Apr 2021 16:33:45 +0200</lastBuildDate><atom:link href="/tags/j.s.-bach/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pd#008 AaaBbb</title>
+      <link>/trail/pd-008-aaabbb/</link>
+      <pubDate>Tue, 20 Apr 2021 16:33:45 +0200</pubDate>
+      
+      <guid>/trail/pd-008-aaabbb/</guid>
+      <description>dummy  $(&#34;.audio&#34;).mb_miniPlayer({ });  
+Here leadtext
+More text</description>
+    </item>
+    
+    <item>
+      <title>jQuery player</title>
+      <link>/trail/players/</link>
+      <pubDate>Fri, 12 Mar 2021 16:27:21 +0200</pubDate>
+      
+      <guid>/trail/players/</guid>
+      <description>dummy  $(&#34;.audio&#34;).mb_miniPlayer({ });  The first Argentinosaurus bone was discovered in 1987 by a farmer on his farm near the city of Plaza Huincul.</description>
+    </item>
+    
+  </channel>
+</rss>
