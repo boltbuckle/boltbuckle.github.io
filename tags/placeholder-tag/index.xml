@@ -2,62 +2,62 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>placeholder tag on Pek::Druppel</title>
-    <link>/tags/placeholder-tag/</link>
+    <link>https://www.pekdruppel.com/tags/placeholder-tag/</link>
     <description>Recent content in placeholder tag on Pek::Druppel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 20 Apr 2021 16:33:36 +0200</lastBuildDate><atom:link href="/tags/placeholder-tag/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 20 Apr 2021 16:33:36 +0200</lastBuildDate><atom:link href="https://www.pekdruppel.com/tags/placeholder-tag/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Pd#007 AaaBbb</title>
-      <link>/trail/pd-007-aaabbb/</link>
+      <link>https://www.pekdruppel.com/trail/pd-007-aaabbb/</link>
       <pubDate>Tue, 20 Apr 2021 16:33:36 +0200</pubDate>
       
-      <guid>/trail/pd-007-aaabbb/</guid>
-      <description>dummy1  $(&#34;.audio&#34;).mb_miniPlayer({ });  text</description>
+      <guid>https://www.pekdruppel.com/trail/pd-007-aaabbb/</guid>
+      <description>dummy7  $(&#34;.audio&#34;).mb_miniPlayer({ });  text</description>
     </item>
     
     <item>
       <title>Pd#006 AaaBbb</title>
-      <link>/trail/pd-006-aaabbb/</link>
+      <link>https://www.pekdruppel.com/trail/pd-006-aaabbb/</link>
       <pubDate>Tue, 20 Apr 2021 16:33:29 +0200</pubDate>
       
-      <guid>/trail/pd-006-aaabbb/</guid>
-      <description>dummy2  $(&#34;.audio&#34;).mb_miniPlayer({ });  text</description>
+      <guid>https://www.pekdruppel.com/trail/pd-006-aaabbb/</guid>
+      <description>dummy6  $(&#34;.audio&#34;).mb_miniPlayer({ });  text</description>
     </item>
     
     <item>
       <title>Pd#005 AaaBbb</title>
-      <link>/trail/pd-005-aaabbb/</link>
+      <link>https://www.pekdruppel.com/trail/pd-005-aaabbb/</link>
       <pubDate>Tue, 20 Apr 2021 16:33:24 +0200</pubDate>
       
-      <guid>/trail/pd-005-aaabbb/</guid>
-      <description>dummy3  $(&#34;.audio&#34;).mb_miniPlayer({ });  text</description>
+      <guid>https://www.pekdruppel.com/trail/pd-005-aaabbb/</guid>
+      <description>dummy5  $(&#34;.audio&#34;).mb_miniPlayer({ });  text</description>
     </item>
     
     <item>
       <title>Pd#004 AaaBbb</title>
-      <link>/trail/pd-004-aaabbb/</link>
+      <link>https://www.pekdruppel.com/trail/pd-004-aaabbb/</link>
       <pubDate>Tue, 20 Apr 2021 16:32:03 +0200</pubDate>
       
-      <guid>/trail/pd-004-aaabbb/</guid>
+      <guid>https://www.pekdruppel.com/trail/pd-004-aaabbb/</guid>
       <description>dummy4  $(&#34;.audio&#34;).mb_miniPlayer({ });  text</description>
     </item>
     
     <item>
       <title>Pd#003 AaaBbb</title>
-      <link>/trail/pd-003-aaabbb/</link>
+      <link>https://www.pekdruppel.com/trail/pd-003-aaabbb/</link>
       <pubDate>Tue, 20 Apr 2021 16:31:58 +0200</pubDate>
       
-      <guid>/trail/pd-003-aaabbb/</guid>
+      <guid>https://www.pekdruppel.com/trail/pd-003-aaabbb/</guid>
       <description>text</description>
     </item>
     
     <item>
       <title>Pd#002 AaaBbb</title>
-      <link>/trail/pd-002-aaabbb/</link>
+      <link>https://www.pekdruppel.com/trail/pd-002-aaabbb/</link>
       <pubDate>Tue, 20 Apr 2021 16:27:21 +0200</pubDate>
       
-      <guid>/trail/pd-002-aaabbb/</guid>
+      <guid>https://www.pekdruppel.com/trail/pd-002-aaabbb/</guid>
       <description></description>
     </item>
     

@@ -1,26 +1,44 @@
 [{
+    "title": "Pd#011 Plyr via url",
+    "date": "",
+    "description": "Post with a background color tag.",
+    "body": "Here leanull\nMore text\n",
+    "ref": "/trail/pd-010-plyr/"
+  },{
+    "title": "Pd#009 Plyr 2",
+    "date": "",
+    "description": "give a description",
+    "body": "This is the second plyr for testing if they don\u0026rsquo;t play togtether\nMore text\n",
+    "ref": "/trail/pd-009-plyr/"
+  },{
+    "title": "Pd#011 Plyr",
+    "date": "",
+    "description": "give a description",
+    "body": "In physics, sound is a vibration that propagates as an acoustic wave, through a transmission medium such as a gas, liquid or solid. In human physiology and psychology, sound is the reception of such waves and their perception by the brain.[1] Only acoustic waves that have frequencies lying between about 20 Hz and 20 kHz, the audio frequency range, elicit an auditory percept in humans. In air at atmospheric pressure, these represent sound waves with wavelengths of 17 meters (56 ft) to 1.7 centimetres (0.67 in). Sound waves above 20 kHz are known as ultrasound and are not audible to humans. Sound waves below 20 Hz are known as infrasound. Different animal species have varying hearing ranges.\nMore text\n",
+    "ref": "/trail/pd-011-plyr-via-url/"
+  },{
     "title": "Pd#008 AaaBbb",
     "date": "",
     "description": "give a description",
-    "body": "dummy  $(\".audio\").mb_miniPlayer({ });  Here leadtext\nMore text\n",
+    "body": "Here leadtext\nMore text\n",
     "ref": "/trail/pd-008-aaabbb/"
   },{
     "title": "Pd#007 AaaBbb",
     "date": "",
-    "description": "give a description",
-    "body": "dummy1  $(\".audio\").mb_miniPlayer({ });  text\n",
+    "description": "Post with a trail border color tag.",
+    "body": "dummy7  $(\".audio\").mb_miniPlayer({ });  text\n",
     "ref": "/trail/pd-007-aaabbb/"
   },{
     "title": "Pd#006 AaaBbb",
     "date": "",
     "description": "give a description",
-    "body": "dummy2  $(\".audio\").mb_miniPlayer({ });  text\n",
+    "body": "dummy6  $(\".audio\").mb_miniPlayer({ });  text\n",
     "ref": "/trail/pd-006-aaabbb/"
   },{
     "title": "Pd#005 AaaBbb",
     "date": "",
     "description": "give a description",
-    "body": "dummy3  $(\".audio\").mb_miniPlayer({ });  text\n",
+    "body": "dummy5  $(\".audio\").mb_miniPlayer({ });  text\n",
     "ref": "/trail/pd-005-aaabbb/"
   },{
     "title": "Pd#004 AaaBbb",
@@ -38,7 +56,7 @@
     "title": "PD#001-AaaBbb",
     "date": "",
     "description": "Tests with Yaml",
-    "body": "text\n",
+    "body": "The motivation for creating the PNG format was the realization, in early 1995, that the Lempel–Ziv–Welch (LZW) data compression algorithm used in the Graphics Interchange Format (GIF) format was patented by Unisys. There were also other problems with the GIF format that made a replacement desirable, notably its limit of 256 colors at a time when computers with far more advanced displays were becoming common.\nA January 1995 precursory discussion thread, on the usenet newsgroup \u0026ldquo;comp.graphics\u0026rdquo; with the subject Thoughts on a GIF-replacement file format, had many propositions which would later be part of the PNG file format. In that thread, Oliver Fromme, author of the popular JPEG viewer QPEG, proposed the PING name, eventually becoming PNG, a recursive acronym meaning PING is not GIF, and also the .png extension.[7]\nAlthough GIF allows for animation, it was decided that PNG should be a single-image format.[8] In 2001, the developers of PNG published the Multiple-image Network Graphics (MNG) format, with support for animation. MNG achieved moderate application support, but not enough among mainstream web browsers and no usage among web site designers or publishers. In 2008, certain Mozilla developers published the Animated Portable Network Graphics (APNG) format with similar goals. APNG is a format that is natively supported by Gecko- and Presto-based web browsers and is also commonly used for thumbnails on Sony\u0026rsquo;s PlayStation Portable system (using the normal PNG file extension). In 2017 Chromium based browsers adopted APNG support. In January 2020 Microsoft Edge became Chromium based, thus inheriting support for APNG. With this all major browsers now support APNG.\n",
     "ref": "/trail/pd-001-aaabbb/"
   },{
     "title": "Pd#002 AaaBbb",
@@ -50,7 +68,7 @@
     "title": "Large file tracking test with LFS",
     "date": "",
     "description": "See above",
-    "body": "art_of_war_01-02_sun_tzu  $(\".audio\").mb_miniPlayer({ });  here some text\nmore\n",
+    "body": "art_of_war_01-02_sun_tzu2  $(\".audio\").mb_miniPlayer({ });  here some text\nmore\n",
     "ref": "/trail/large-file-tracking-test/"
   },{
     "title": "jQuery player",
@@ -74,13 +92,13 @@
     "title": "Rich Content",
     "date": "",
     "description": "A brief description of Hugo Shortcodes",
-    "body": "Hugo ships with several Built-in Shortcodes for rich content, along with a Privacy Config and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.\n   gallery  */}} --  YouTube Privacy Enhanced Shortcode    Twitter Simple Shortcode .twitter-tweet { font: 14px/1.45 -apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,Oxygen-Sans,Ubuntu,Cantarell,\"Helvetica Neue\",sans-serif; border-left: 4px solid #2b7bb9; padding-left: 1.5em; color: #555; } .twitter-tweet a { color: #2b7bb9; text-decoration: none; } blockquote.twitter-tweet a:hover, blockquote.twitter-tweet a:focus { text-decoration: underline; }  “In addition to being more logical, asymmetry has the advantage that its complete appearance is far more optically effective than symmetry.”\n— Jan Tschichold pic.twitter.com/gcv7SrhvJb\n\u0026mdash; Graphic Design History (@DesignReviewed) January 17, 2019  Vimeo Simple Shortcode  .__h_video { position: relative; padding-bottom: 56.23%; height: 0; overflow: hidden; width: 100%; background: #000; } .__h_video img { width: 100%; height: auto; color: #000; } .__h_video .play { height: 72px; width: 72px; left: 50%; top: 50%; margin-left: -36px; margin-top: -36px; position: absolute; cursor: pointer; }  ",
+    "body": "Hugo ships with several Built-in Shortcodes for rich content, along with a Privacy Config and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.\n {{/\u0026lt; fancybox \u0026ldquo;img/main\u0026rdquo; \u0026ldquo;wave-square-solid-paperlight6.png\u0026rdquo; \u0026ldquo;gallery\u0026rdquo;\u0026gt;/}}\n*/}} --  YouTube Privacy Enhanced Shortcode    Twitter Simple Shortcode .twitter-tweet { font: 14px/1.45 -apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,Oxygen-Sans,Ubuntu,Cantarell,\"Helvetica Neue\",sans-serif; border-left: 4px solid #2b7bb9; padding-left: 1.5em; color: #555; } .twitter-tweet a { color: #2b7bb9; text-decoration: none; } blockquote.twitter-tweet a:hover, blockquote.twitter-tweet a:focus { text-decoration: underline; }  “In addition to being more logical, asymmetry has the advantage that its complete appearance is far more optically effective than symmetry.”\n— Jan Tschichold pic.twitter.com/gcv7SrhvJb\n\u0026mdash; Graphic Design History (@DesignReviewed) January 17, 2019  Vimeo Simple Shortcode  .__h_video { position: relative; padding-bottom: 56.23%; height: 0; overflow: hidden; width: 100%; background: #000; } .__h_video img { width: 100%; height: auto; color: #000; } .__h_video .play { height: 72px; width: 72px; left: 50%; top: 50%; margin-left: -36px; margin-top: -36px; position: absolute; cursor: pointer; }  ",
     "ref": "/trail/rich-content/"
   },{
     "title": "About",
     "date": "",
     "description": "Hugo, the world’s fastest framework for building websites",
-    "body": "Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.\nHugo makes use of a variety of open source projects including:\n https://github.com/yuin/goldmark https://github.com/alecthomas/chroma https://github.com/muesli/smartcrop https://github.com/spf13/cobra https://github.com/spf13/viper  Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.\nHugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.\nWebsites built with Hugo are extremelly fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.\nLearn more and contribute on GitHub.\n",
+    "body": "Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.\nHugo makes use of a variety of open source projects including:\n https://github.com/yuin/goldmark https://github.com/alecthomas/chroma https://github.com/muesli/smartcrop https://github.com/spf13/cobra https://github.com/spf13/viper  Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.\nHugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.\nWebsites built with Hugo are extremelly fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.\nLearn more and contribute on GitHub.\n Sitemap Total Pages(36)  \"Bach\" in: \"categories\" @ /categories/bach/  \"Categories\" in: \"categories\" @ /categories/  \"J.S. Bach\" in: \"tags\" @ /tags/j.s.-bach/  \"Pd#011 Plyr via url\" in: \"trail\" @ /trail/pd-010-plyr/  \"Pek::Druppel\" in: \"\" @ /  \"Recording\" in: \"categories\" @ /categories/recording/  \"Tags\" in: \"tags\" @ /tags/  \"Trail\" in: \"trail\" @ /trail/  \"Trail-2021\" in: \"categories\" @ /categories/trail-2021/  \"Pd#009 Plyr 2\" in: \"trail\" @ /trail/pd-009-plyr/  \"Pd#011 Plyr\" in: \"trail\" @ /trail/pd-011-plyr-via-url/  \"Pd#008 AaaBbb\" in: \"trail\" @ /trail/pd-008-aaabbb/  \"Pd#007 AaaBbb\" in: \"trail\" @ /trail/pd-007-aaabbb/  \"placeholder tag\" in: \"tags\" @ /tags/placeholder-tag/  \"Pd#006 AaaBbb\" in: \"trail\" @ /trail/pd-006-aaabbb/  \"Pd#005 AaaBbb\" in: \"trail\" @ /trail/pd-005-aaabbb/  \"Pd#004 AaaBbb\" in: \"trail\" @ /trail/pd-004-aaabbb/  \"Pd#003 AaaBbb\" in: \"trail\" @ /trail/pd-003-aaabbb/  \"Bach\" in: \"tags\" @ /tags/bach/  \"Composition\" in: \"categories\" @ /categories/composition/  \"PD#001-AaaBbb\" in: \"trail\" @ /trail/pd-001-aaabbb/  \"Pd#002 AaaBbb\" in: \"trail\" @ /trail/pd-002-aaabbb/  \"Recording\" in: \"tags\" @ /tags/recording/  \"Trail-2021\" in: \"tags\" @ /tags/trail-2021/  \"Impro\" in: \"categories\" @ /categories/impro/  \"Large file tracking test with LFS\" in: \"trail\" @ /trail/large-file-tracking-test/  \"guitar\" in: \"tags\" @ /tags/guitar/  \"jQuery player\" in: \"trail\" @ /trail/players/  \"Transpositions\" in: \"categories\" @ /categories/transpositions/  \"Argentinosaurus\" in: \"trail\" @ /trail/argentinosaurus/  \"j.s.bach\" in: \"tags\" @ /tags/j.s.bach/  \"music\" in: \"tags\" @ /tags/music/  \"PD#243 | Some Intro\" in: \"trail\" @ /trail/some-intro/  \"Rich Content\" in: \"trail\" @ /trail/rich-content/  \"About\" in: \"\" @ /about/  \"Contact\" in: \"\" @ /contact/   ",
     "ref": "/about/"
   },{
     "title": "Contact",

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Composition on Pek::Druppel</title>
-    <link>/categories/composition/</link>
+    <link>https://www.pekdruppel.com/categories/composition/</link>
     <description>Recent content in Composition on Pek::Druppel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 20 Apr 2021 16:27:21 +0200</lastBuildDate><atom:link href="/categories/composition/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 20 Apr 2021 16:27:21 +0200</lastBuildDate><atom:link href="https://www.pekdruppel.com/categories/composition/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Pd#002 AaaBbb</title>
-      <link>/trail/pd-002-aaabbb/</link>
+      <link>https://www.pekdruppel.com/trail/pd-002-aaabbb/</link>
       <pubDate>Tue, 20 Apr 2021 16:27:21 +0200</pubDate>
       
-      <guid>/trail/pd-002-aaabbb/</guid>
+      <guid>https://www.pekdruppel.com/trail/pd-002-aaabbb/</guid>
       <description></description>
     </item>
     

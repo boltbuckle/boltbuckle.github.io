@@ -2,62 +2,62 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Pek::Druppel</title>
-    <link>/categories/</link>
+    <link>https://www.pekdruppel.com/categories/</link>
     <description>Recent content in Categories on Pek::Druppel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 20 Apr 2021 16:33:45 +0200</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 23 Apr 2021 16:50:45 +0200</lastBuildDate><atom:link href="https://www.pekdruppel.com/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bach</title>
-      <link>/categories/bach/</link>
-      <pubDate>Tue, 20 Apr 2021 16:33:45 +0200</pubDate>
+      <link>https://www.pekdruppel.com/categories/bach/</link>
+      <pubDate>Fri, 23 Apr 2021 16:50:45 +0200</pubDate>
       
-      <guid>/categories/bach/</guid>
+      <guid>https://www.pekdruppel.com/categories/bach/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recording</title>
-      <link>/categories/recording/</link>
-      <pubDate>Tue, 20 Apr 2021 16:33:45 +0200</pubDate>
+      <link>https://www.pekdruppel.com/categories/recording/</link>
+      <pubDate>Fri, 23 Apr 2021 16:50:45 +0200</pubDate>
       
-      <guid>/categories/recording/</guid>
+      <guid>https://www.pekdruppel.com/categories/recording/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Trail-2021</title>
-      <link>/categories/trail-2021/</link>
-      <pubDate>Tue, 20 Apr 2021 16:33:45 +0200</pubDate>
+      <link>https://www.pekdruppel.com/categories/trail-2021/</link>
+      <pubDate>Fri, 23 Apr 2021 16:50:45 +0200</pubDate>
       
-      <guid>/categories/trail-2021/</guid>
+      <guid>https://www.pekdruppel.com/categories/trail-2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Composition</title>
-      <link>/categories/composition/</link>
+      <link>https://www.pekdruppel.com/categories/composition/</link>
       <pubDate>Tue, 20 Apr 2021 16:27:21 +0200</pubDate>
       
-      <guid>/categories/composition/</guid>
+      <guid>https://www.pekdruppel.com/categories/composition/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Impro</title>
-      <link>/categories/impro/</link>
+      <link>https://www.pekdruppel.com/categories/impro/</link>
       <pubDate>Thu, 15 Apr 2021 16:27:21 +0200</pubDate>
       
-      <guid>/categories/impro/</guid>
+      <guid>https://www.pekdruppel.com/categories/impro/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Transpositions</title>
-      <link>/categories/transpositions/</link>
+      <link>https://www.pekdruppel.com/categories/transpositions/</link>
       <pubDate>Fri, 12 Mar 2021 16:27:21 +0200</pubDate>
       
-      <guid>/categories/transpositions/</guid>
+      <guid>https://www.pekdruppel.com/categories/transpositions/</guid>
       <description></description>
     </item>
     

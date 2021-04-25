@@ -2,80 +2,80 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Pek::Druppel</title>
-    <link>/tags/</link>
+    <link>https://www.pekdruppel.com/tags/</link>
     <description>Recent content in Tags on Pek::Druppel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 20 Apr 2021 16:33:45 +0200</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 23 Apr 2021 16:50:45 +0200</lastBuildDate><atom:link href="https://www.pekdruppel.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>J.S. Bach</title>
-      <link>/tags/j.s.-bach/</link>
-      <pubDate>Tue, 20 Apr 2021 16:33:45 +0200</pubDate>
+      <link>https://www.pekdruppel.com/tags/j.s.-bach/</link>
+      <pubDate>Fri, 23 Apr 2021 16:50:45 +0200</pubDate>
       
-      <guid>/tags/j.s.-bach/</guid>
+      <guid>https://www.pekdruppel.com/tags/j.s.-bach/</guid>
       <description></description>
     </item>
     
     <item>
       <title>placeholder tag</title>
-      <link>/tags/placeholder-tag/</link>
+      <link>https://www.pekdruppel.com/tags/placeholder-tag/</link>
       <pubDate>Tue, 20 Apr 2021 16:33:36 +0200</pubDate>
       
-      <guid>/tags/placeholder-tag/</guid>
+      <guid>https://www.pekdruppel.com/tags/placeholder-tag/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bach</title>
-      <link>/tags/bach/</link>
+      <link>https://www.pekdruppel.com/tags/bach/</link>
       <pubDate>Tue, 20 Apr 2021 16:27:21 +0200</pubDate>
       
-      <guid>/tags/bach/</guid>
+      <guid>https://www.pekdruppel.com/tags/bach/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recording</title>
-      <link>/tags/recording/</link>
+      <link>https://www.pekdruppel.com/tags/recording/</link>
       <pubDate>Tue, 20 Apr 2021 16:27:21 +0200</pubDate>
       
-      <guid>/tags/recording/</guid>
+      <guid>https://www.pekdruppel.com/tags/recording/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Trail-2021</title>
-      <link>/tags/trail-2021/</link>
+      <link>https://www.pekdruppel.com/tags/trail-2021/</link>
       <pubDate>Tue, 20 Apr 2021 16:27:21 +0200</pubDate>
       
-      <guid>/tags/trail-2021/</guid>
+      <guid>https://www.pekdruppel.com/tags/trail-2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>guitar</title>
-      <link>/tags/guitar/</link>
+      <link>https://www.pekdruppel.com/tags/guitar/</link>
       <pubDate>Fri, 12 Mar 2021 16:27:21 +0200</pubDate>
       
-      <guid>/tags/guitar/</guid>
+      <guid>https://www.pekdruppel.com/tags/guitar/</guid>
       <description></description>
     </item>
     
     <item>
       <title>j.s.bach</title>
-      <link>/tags/j.s.bach/</link>
+      <link>https://www.pekdruppel.com/tags/j.s.bach/</link>
       <pubDate>Thu, 11 Mar 2021 16:27:21 +0200</pubDate>
       
-      <guid>/tags/j.s.bach/</guid>
+      <guid>https://www.pekdruppel.com/tags/j.s.bach/</guid>
       <description></description>
     </item>
     
     <item>
       <title>music</title>
-      <link>/tags/music/</link>
+      <link>https://www.pekdruppel.com/tags/music/</link>
       <pubDate>Wed, 10 Mar 2021 16:27:21 +0200</pubDate>
       
-      <guid>/tags/music/</guid>
+      <guid>https://www.pekdruppel.com/tags/music/</guid>
       <description></description>
     </item>
     

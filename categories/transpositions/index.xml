@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Transpositions on Pek::Druppel</title>
-    <link>/categories/transpositions/</link>
+    <link>https://www.pekdruppel.com/categories/transpositions/</link>
     <description>Recent content in Transpositions on Pek::Druppel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 12 Mar 2021 16:27:21 +0200</lastBuildDate><atom:link href="/categories/transpositions/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 12 Mar 2021 16:27:21 +0200</lastBuildDate><atom:link href="https://www.pekdruppel.com/categories/transpositions/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>jQuery player</title>
-      <link>/trail/players/</link>
+      <link>https://www.pekdruppel.com/trail/players/</link>
       <pubDate>Fri, 12 Mar 2021 16:27:21 +0200</pubDate>
       
-      <guid>/trail/players/</guid>
+      <guid>https://www.pekdruppel.com/trail/players/</guid>
       <description>The first Argentinosaurus bone was discovered in 1987 by a farmer on his farm near the city of Plaza Huincul.</description>
     </item>
     
     <item>
       <title>Argentinosaurus</title>
-      <link>/trail/argentinosaurus/</link>
+      <link>https://www.pekdruppel.com/trail/argentinosaurus/</link>
       <pubDate>Thu, 11 Mar 2021 16:27:21 +0200</pubDate>
       
-      <guid>/trail/argentinosaurus/</guid>
-      <description>&lt;p&gt;&lt;a id=&#34;dummydoodelydummydoo&#34; class=&#34;audio {skin:&#39;blackLarge&#39;, width:320, loop:false, inLine:true, downloadable:false}&#34; href=&#34;/media/dummydoodelydummydoo.mp3&#34;&gt;dummydoodelydummydoo&lt;/a&gt;
+      <guid>https://www.pekdruppel.com/trail/argentinosaurus/</guid>
+      <description>&lt;p&gt;&lt;a id=&#34;dummydoodelydummydoo&#34; class=&#34;audio {skin:&#39;blackLarge&#39;, width:320, loop:false, inLine:true, downloadable:false}&#34; href=&#34;https://www.pekdruppel.com/media/dummydoodelydummydoo.mp3&#34;&gt;dummydoodelydummydoo&lt;/a&gt;
       &lt;script&gt; $(&#34;.audio&#34;).mb_miniPlayer({ }); &lt;/script&gt;
 &lt;br&gt;
 &lt;em&gt;&lt;strong&gt;Argentinosaurus&lt;/strong&gt;&lt;/em&gt; is a &lt;a href=&#34;https://en.wikipedia.org/wiki/Genus&#34;&gt;genus&lt;/a&gt; of giant &lt;a href=&#34;https://en.wikipedia.org/wiki/Sauropod&#34;&gt;sauropod&lt;/a&gt; &lt;a href=&#34;https://en.wikipedia.org/wiki/Dinosaur&#34;&gt;dinosaur&lt;/a&gt; that lived during the &lt;a href=&#34;https://en.wikipedia.org/wiki/Late_Cretaceous&#34;&gt;Late Cretaceous&lt;/a&gt; &lt;a href=&#34;https://en.wikipedia.org/wiki/Period_(geology)&#34;&gt;period&lt;/a&gt; in what is now &lt;a href=&#34;https://en.wikipedia.org/wiki/Argentina&#34;&gt;Argentina&lt;/a&gt;. Although it is only known from fragmentary remains, &lt;em&gt;Argentinosaurus&lt;/em&gt; is one of the &lt;a href=&#34;https://en.wikipedia.org/wiki/Largest_prehistoric_animals#Non-avian_dinosaurs_(Dinosauria)&#34;&gt;largest known land animals of all time&lt;/a&gt;, perhaps the largest, with length estimates ranging from 30 to 40 metres (100 to 130 ft) and weight estimates from 50 to 100 tonnes (55 to 110  short tons). It was a member of &lt;a href=&#34;https://en.wikipedia.org/wiki/Titanosauria&#34;&gt;Titanosauria&lt;/a&gt;, the dominant group of sauropods during the Cretaceous.&lt;/p&gt;</description>

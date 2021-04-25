@@ -2,72 +2,101 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Trail-2021 on Pek::Druppel</title>
-    <link>/categories/trail-2021/</link>
+    <link>https://www.pekdruppel.com/categories/trail-2021/</link>
     <description>Recent content in Trail-2021 on Pek::Druppel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 20 Apr 2021 16:33:45 +0200</lastBuildDate><atom:link href="/categories/trail-2021/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 23 Apr 2021 16:50:45 +0200</lastBuildDate><atom:link href="https://www.pekdruppel.com/categories/trail-2021/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pd#011 Plyr via url</title>
+      <link>https://www.pekdruppel.com/trail/pd-010-plyr/</link>
+      <pubDate>Fri, 23 Apr 2021 16:50:45 +0200</pubDate>
+      
+      <guid>https://www.pekdruppel.com/trail/pd-010-plyr/</guid>
+      <description>Here leanull
+More text</description>
+    </item>
+    
+    <item>
+      <title>Pd#009 Plyr 2</title>
+      <link>https://www.pekdruppel.com/trail/pd-009-plyr/</link>
+      <pubDate>Fri, 23 Apr 2021 16:34:45 +0200</pubDate>
+      
+      <guid>https://www.pekdruppel.com/trail/pd-009-plyr/</guid>
+      <description>This is the second plyr for testing if they don&amp;rsquo;t play togtether
+More text</description>
+    </item>
+    
+    <item>
+      <title>Pd#011 Plyr</title>
+      <link>https://www.pekdruppel.com/trail/pd-011-plyr-via-url/</link>
+      <pubDate>Fri, 23 Apr 2021 16:33:45 +0200</pubDate>
+      
+      <guid>https://www.pekdruppel.com/trail/pd-011-plyr-via-url/</guid>
+      <description>In physics, sound is a vibration that propagates as an acoustic wave, through a transmission medium such as a gas, liquid or solid. In human physiology and psychology, sound is the reception of such waves and their perception by the brain.[1] Only acoustic waves that have frequencies lying between about 20 Hz and 20 kHz, the audio frequency range, elicit an auditory percept in humans. In air at atmospheric pressure, these represent sound waves with wavelengths of 17 meters (56 ft) to 1.</description>
+    </item>
+    
     <item>
       <title>Pd#008 AaaBbb</title>
-      <link>/trail/pd-008-aaabbb/</link>
+      <link>https://www.pekdruppel.com/trail/pd-008-aaabbb/</link>
       <pubDate>Tue, 20 Apr 2021 16:33:45 +0200</pubDate>
       
-      <guid>/trail/pd-008-aaabbb/</guid>
-      <description>dummy  $(&#34;.audio&#34;).mb_miniPlayer({ });  Here leadtext
+      <guid>https://www.pekdruppel.com/trail/pd-008-aaabbb/</guid>
+      <description>Here leadtext
 More text</description>
     </item>
     
     <item>
       <title>Pd#007 AaaBbb</title>
-      <link>/trail/pd-007-aaabbb/</link>
+      <link>https://www.pekdruppel.com/trail/pd-007-aaabbb/</link>
       <pubDate>Tue, 20 Apr 2021 16:33:36 +0200</pubDate>
       
-      <guid>/trail/pd-007-aaabbb/</guid>
-      <description>dummy1  $(&#34;.audio&#34;).mb_miniPlayer({ });  text</description>
+      <guid>https://www.pekdruppel.com/trail/pd-007-aaabbb/</guid>
+      <description>dummy7  $(&#34;.audio&#34;).mb_miniPlayer({ });  text</description>
     </item>
     
     <item>
       <title>Pd#006 AaaBbb</title>
-      <link>/trail/pd-006-aaabbb/</link>
+      <link>https://www.pekdruppel.com/trail/pd-006-aaabbb/</link>
       <pubDate>Tue, 20 Apr 2021 16:33:29 +0200</pubDate>
       
-      <guid>/trail/pd-006-aaabbb/</guid>
-      <description>dummy2  $(&#34;.audio&#34;).mb_miniPlayer({ });  text</description>
+      <guid>https://www.pekdruppel.com/trail/pd-006-aaabbb/</guid>
+      <description>dummy6  $(&#34;.audio&#34;).mb_miniPlayer({ });  text</description>
     </item>
     
     <item>
       <title>Pd#005 AaaBbb</title>
-      <link>/trail/pd-005-aaabbb/</link>
+      <link>https://www.pekdruppel.com/trail/pd-005-aaabbb/</link>
       <pubDate>Tue, 20 Apr 2021 16:33:24 +0200</pubDate>
       
-      <guid>/trail/pd-005-aaabbb/</guid>
-      <description>dummy3  $(&#34;.audio&#34;).mb_miniPlayer({ });  text</description>
+      <guid>https://www.pekdruppel.com/trail/pd-005-aaabbb/</guid>
+      <description>dummy5  $(&#34;.audio&#34;).mb_miniPlayer({ });  text</description>
     </item>
     
     <item>
       <title>Pd#004 AaaBbb</title>
-      <link>/trail/pd-004-aaabbb/</link>
+      <link>https://www.pekdruppel.com/trail/pd-004-aaabbb/</link>
       <pubDate>Tue, 20 Apr 2021 16:32:03 +0200</pubDate>
       
-      <guid>/trail/pd-004-aaabbb/</guid>
+      <guid>https://www.pekdruppel.com/trail/pd-004-aaabbb/</guid>
       <description>dummy4  $(&#34;.audio&#34;).mb_miniPlayer({ });  text</description>
     </item>
     
     <item>
       <title>Pd#003 AaaBbb</title>
-      <link>/trail/pd-003-aaabbb/</link>
+      <link>https://www.pekdruppel.com/trail/pd-003-aaabbb/</link>
       <pubDate>Tue, 20 Apr 2021 16:31:58 +0200</pubDate>
       
-      <guid>/trail/pd-003-aaabbb/</guid>
+      <guid>https://www.pekdruppel.com/trail/pd-003-aaabbb/</guid>
       <description>text</description>
     </item>
     
     <item>
       <title>Pd#002 AaaBbb</title>
-      <link>/trail/pd-002-aaabbb/</link>
+      <link>https://www.pekdruppel.com/trail/pd-002-aaabbb/</link>
       <pubDate>Tue, 20 Apr 2021 16:27:21 +0200</pubDate>
       
-      <guid>/trail/pd-002-aaabbb/</guid>
+      <guid>https://www.pekdruppel.com/trail/pd-002-aaabbb/</guid>
       <description></description>
     </item>
     
