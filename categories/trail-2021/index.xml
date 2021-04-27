@@ -8,7 +8,7 @@
     <language>en</language>
     <lastBuildDate>Fri, 23 Apr 2021 16:50:45 +0200</lastBuildDate><atom:link href="https://www.pekdruppel.com/categories/trail-2021/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Pd#011 Plyr via url</title>
+      <title>Pd#011 Plyr mp3/ogg evaluation</title>
       <link>https://www.pekdruppel.com/trail/pd-010-plyr/</link>
       <pubDate>Fri, 23 Apr 2021 16:50:45 +0200</pubDate>
       
@@ -18,7 +18,7 @@ More text</description>
     </item>
     
     <item>
-      <title>Pd#009 Plyr 2</title>
+      <title>Pd#009 Plyr ogg/mp3 evaluation</title>
       <link>https://www.pekdruppel.com/trail/pd-009-plyr/</link>
       <pubDate>Fri, 23 Apr 2021 16:34:45 +0200</pubDate>
       
@@ -28,7 +28,7 @@ More text</description>
     </item>
     
     <item>
-      <title>Pd#011 Plyr</title>
+      <title>Pd#011 url Bonnie Prince Fetlar</title>
       <link>https://www.pekdruppel.com/trail/pd-011-plyr-via-url/</link>
       <pubDate>Fri, 23 Apr 2021 16:33:45 +0200</pubDate>
       
@@ -37,7 +37,16 @@ More text</description>
     </item>
     
     <item>
-      <title>Pd#008 AaaBbb</title>
+      <title>Tests with Markdown</title>
+      <link>https://www.pekdruppel.com/trail/tests-with-md/</link>
+      <pubDate>Fri, 23 Apr 2021 16:33:45 +0200</pubDate>
+      
+      <guid>https://www.pekdruppel.com/trail/tests-with-md/</guid>
+      <description>In physics, sound is a vibration that propagates as an acoustic wave, through a transmission medium such as a gas, liquid or solid. In human physiology and psychology, sound is the reception of such waves and their perception by the brain.[1] Only acoustic waves that have frequencies lying between about 20 Hz and 20 kHz, the audio frequency range, elicit an auditory percept in humans. In air at atmospheric pressure, these represent sound waves with wavelengths of 17 meters (56 ft) to 1.</description>
+    </item>
+    
+    <item>
+      <title>Pd#008 evaluation with no extension</title>
       <link>https://www.pekdruppel.com/trail/pd-008-aaabbb/</link>
       <pubDate>Tue, 20 Apr 2021 16:33:45 +0200</pubDate>
       
@@ -47,7 +56,7 @@ More text</description>
     </item>
     
     <item>
-      <title>Pd#007 AaaBbb</title>
+      <title>Pd#007 AaaBbb url &#43; ogg &#43; inline</title>
       <link>https://www.pekdruppel.com/trail/pd-007-aaabbb/</link>
       <pubDate>Tue, 20 Apr 2021 16:33:36 +0200</pubDate>
       

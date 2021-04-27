@@ -58,6 +58,11 @@
   </url>
   
   <url>
+    <loc>https://www.pekdruppel.com/trail/tests-with-md/</loc>
+    <lastmod>2021-04-23T16:33:45+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.pekdruppel.com/trail/pd-008-aaabbb/</loc>
     <lastmod>2021-04-20T16:33:45+02:00</lastmod>
   </url>
@@ -165,6 +170,41 @@
   <url>
     <loc>https://www.pekdruppel.com/trail/some-intro/</loc>
     <lastmod>2021-03-10T16:27:21+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.pekdruppel.com/tags/css/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.pekdruppel.com/tags/html/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.pekdruppel.com/tags/markdown/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.pekdruppel.com/trail/markdown-syntax/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.pekdruppel.com/categories/syntax/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.pekdruppel.com/tags/themes/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.pekdruppel.com/categories/themes/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>

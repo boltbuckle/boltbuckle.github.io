@@ -8,7 +8,7 @@
     <language>en</language>
     <lastBuildDate>Fri, 23 Apr 2021 16:50:45 +0200</lastBuildDate><atom:link href="https://www.pekdruppel.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Pd#011 Plyr via url</title>
+      <title>Pd#011 Plyr mp3/ogg evaluation</title>
       <link>https://www.pekdruppel.com/trail/pd-010-plyr/</link>
       <pubDate>Fri, 23 Apr 2021 16:50:45 +0200</pubDate>
       
@@ -18,7 +18,7 @@ More text</description>
     </item>
     
     <item>
-      <title>Pd#009 Plyr 2</title>
+      <title>Pd#009 Plyr ogg/mp3 evaluation</title>
       <link>https://www.pekdruppel.com/trail/pd-009-plyr/</link>
       <pubDate>Fri, 23 Apr 2021 16:34:45 +0200</pubDate>
       
@@ -28,7 +28,7 @@ More text</description>
     </item>
     
     <item>
-      <title>Pd#011 Plyr</title>
+      <title>Pd#011 url Bonnie Prince Fetlar</title>
       <link>https://www.pekdruppel.com/trail/pd-011-plyr-via-url/</link>
       <pubDate>Fri, 23 Apr 2021 16:33:45 +0200</pubDate>
       
@@ -37,7 +37,16 @@ More text</description>
     </item>
     
     <item>
-      <title>Pd#008 AaaBbb</title>
+      <title>Tests with Markdown</title>
+      <link>https://www.pekdruppel.com/trail/tests-with-md/</link>
+      <pubDate>Fri, 23 Apr 2021 16:33:45 +0200</pubDate>
+      
+      <guid>https://www.pekdruppel.com/trail/tests-with-md/</guid>
+      <description>In physics, sound is a vibration that propagates as an acoustic wave, through a transmission medium such as a gas, liquid or solid. In human physiology and psychology, sound is the reception of such waves and their perception by the brain.[1] Only acoustic waves that have frequencies lying between about 20 Hz and 20 kHz, the audio frequency range, elicit an auditory percept in humans. In air at atmospheric pressure, these represent sound waves with wavelengths of 17 meters (56 ft) to 1.</description>
+    </item>
+    
+    <item>
+      <title>Pd#008 evaluation with no extension</title>
       <link>https://www.pekdruppel.com/trail/pd-008-aaabbb/</link>
       <pubDate>Tue, 20 Apr 2021 16:33:45 +0200</pubDate>
       
@@ -47,7 +56,7 @@ More text</description>
     </item>
     
     <item>
-      <title>Pd#007 AaaBbb</title>
+      <title>Pd#007 AaaBbb url &#43; ogg &#43; inline</title>
       <link>https://www.pekdruppel.com/trail/pd-007-aaabbb/</link>
       <pubDate>Tue, 20 Apr 2021 16:33:36 +0200</pubDate>
       
@@ -150,6 +159,15 @@ here some text&lt;/p&gt;</description>
       
       <guid>https://www.pekdruppel.com/trail/some-intro/</guid>
       <description>&lt;p&gt;&lt;em&gt;&lt;strong&gt;Argentinosaurus&lt;/strong&gt;&lt;/em&gt; is a &lt;a href=&#34;https://en.wikipedia.org/wiki/Genus&#34;&gt;genus&lt;/a&gt; of giant &lt;a href=&#34;https://en.wikipedia.org/wiki/Sauropod&#34;&gt;sauropod&lt;/a&gt; &lt;a href=&#34;https://en.wikipedia.org/wiki/Dinosaur&#34;&gt;dinosaur&lt;/a&gt; that lived during the &lt;a href=&#34;https://en.wikipedia.org/wiki/Late_Cretaceous&#34;&gt;Late Cretaceous&lt;/a&gt; &lt;a href=&#34;https://en.wikipedia.org/wiki/Period_(geology)&#34;&gt;period&lt;/a&gt; in what is now &lt;a href=&#34;https://en.wikipedia.org/wiki/Argentina&#34;&gt;Argentina&lt;/a&gt;. Although it is only known from fragmentary remains, &lt;em&gt;Argentinosaurus&lt;/em&gt; is one of the &lt;a href=&#34;https://en.wikipedia.org/wiki/Largest_prehistoric_animals#Non-avian_dinosaurs_(Dinosauria)&#34;&gt;largest known land animals of all time&lt;/a&gt;, perhaps the largest, with length estimates ranging from 30 to 40 metres (100 to 130 ft) and weight estimates from 50 to 100 tonnes (55 to 110  short tons). It was a member of &lt;a href=&#34;https://en.wikipedia.org/wiki/Titanosauria&#34;&gt;Titanosauria&lt;/a&gt;, the dominant group of sauropods during the Cretaceous.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Markdown Syntax Guide</title>
+      <link>https://www.pekdruppel.com/trail/markdown-syntax/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.pekdruppel.com/trail/markdown-syntax/</guid>
+      <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
     </item>
     
     <item>
